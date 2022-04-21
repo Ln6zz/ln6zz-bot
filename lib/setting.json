@@ -1,0 +1,5 @@
+{
+  "fake":"'© Ln6zz",
+  "fakeimage": "fs.readFileSync(`./media/aqul.jpeg`)",
+  "prefix": "z"
+}
