@@ -11,7 +11,7 @@ exports.udin = udin
 
 exports.connect = async() => {
     let authofile = './zainudin.json'
-    udin.version = [2, 2143, 8]
+    udin.version = [2, 2143, 3]
     udin.browserDescription = [ 'XZN', 'Firefox', '3.0' ]
 	udin.logger.level = 'warn'
 	console.log(color(figlet.textSync('XZN SENPAI', {
